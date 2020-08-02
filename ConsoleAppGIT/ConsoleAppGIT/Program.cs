@@ -7,6 +7,7 @@ namespace ConsoleAppGIT
         static void Main(string[] args)
         {
             //Code was edited in github 
+            //Conde was added in VS
             Console.WriteLine("Hello World!");
         }
     }
